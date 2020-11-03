@@ -1,0 +1,8 @@
+test:
+  adapter: mysql
+  encoding: utf8
+  pool: 5
+  database: template_test
+  username: root
+  password: root
+  host: localhost
